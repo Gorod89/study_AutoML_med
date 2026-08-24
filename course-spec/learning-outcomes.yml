@@ -1,0 +1,67 @@
+# Результаты обучения по дисциплине Д3
+# Программа ДПО «Искусственный интеллект и цифровые технологии в медицине»
+
+discipline: "Машинное обучение без кода: AutoML и предиктивная медицина"
+discipline_code: D3
+semester: 7
+program_competency: "ПК-3"
+hours:
+  total: 72
+  lectures: 12
+  practice: 24
+  self_study: 36
+
+outcomes:
+  - id: LO1
+    formulation: >-
+      Объясняет постановку задач машинного обучения на клинических примерах:
+      обучение с учителем, классификация и регрессия, признаки, обучающая и
+      тестовая выборки; соотносит ML-модели с клиническими шкалами риска.
+    module_refs: [module1_how_machines_learn]
+
+  - id: LO2
+    formulation: >-
+      Готовит табличные медицинские данные к моделированию: отбирает и кодирует
+      признаки, обрабатывает пропуски, распознаёт смещения выборки.
+    module_refs: [module1_how_machines_learn, module2_data_and_features]
+
+  - id: LO3
+    formulation: >-
+      Интерпретирует метрики модели как характеристики диагностического теста
+      (Se, Sp, PPV, NPV, ROC-AUC, калибровка) и выбирает порог решения под
+      клиническую задачу — скрининг или подтверждение.
+    module_refs: [module3_metrics_as_diagnostics]
+
+  - id: LO4
+    formulation: >-
+      Выявляет переобучение, утечки данных и смещения; строит честную схему
+      валидации (кросс-валидация, отложенная и внешняя выборки); осознанно
+      применяет AutoML и оценивает его результаты.
+    module_refs: [module3_metrics_as_diagnostics, module4_overfitting_leakage_automl]
+
+  - id: LO5
+    formulation: >-
+      Читает SHAP-графики (глобальная важность и объяснение прогноза для
+      конкретного пациента) и проводит аудит справедливости модели по
+      подгруппам пациентов.
+    module_refs: [module4_overfitting_leakage_automl, module5_interpretability_fairness]
+
+  - id: LO6
+    formulation: >-
+      Оценивает готовность модели к клиническому применению: стандарт
+      отчётности TRIPOD+AI, внешняя валидация, дрейф данных, регуляторные
+      требования к ПО как медицинскому изделию (обзорно).
+    module_refs: [module6_from_model_to_clinic]
+
+  - id: LO7
+    formulation: >-
+      Владеет полным циклом построения предиктивной модели в no-code среде —
+      от клинического вопроса до защиты результата — и чек-листом критической
+      оценки чужих моделей в публикациях и коммерческих СППВР.
+    module_refs:
+      - module1_how_machines_learn
+      - module2_data_and_features
+      - module3_metrics_as_diagnostics
+      - module4_overfitting_leakage_automl
+      - module5_interpretability_fairness
+      - module6_from_model_to_clinic
