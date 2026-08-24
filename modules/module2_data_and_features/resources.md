@@ -3,7 +3,7 @@
 ## Датасеты
 
 - **UCI Heart Disease** (Cleveland) — основной датасет темы: https://archive.ics.uci.edu/dataset/45/heart+disease
-- **Heart Failure Prediction** (Kaggle, объединённые кардиологические данные, 918 наблюдений) — кандидат для командного проекта: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+- **Heart Failure Prediction** (Kaggle, объединённые кардиологические данные, 918 наблюдений) — запасной вариант данных парного проекта: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 - **Stroke Prediction** (Kaggle) — пример датасета с выраженным дисбалансом классов и пропусками: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Инструменты

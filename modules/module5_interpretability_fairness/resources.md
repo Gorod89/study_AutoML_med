@@ -3,7 +3,7 @@
 ## Датасеты
 
 - **UCI Heart Disease** — датасет занятия 9 (есть пол и возраст для разрезов): https://archive.ics.uci.edu/dataset/45/heart+disease
-- Датасеты для командных проектов — список с требованиями в [../../assessment/zachet.md](../../assessment/zachet.md):
+- Данные парного проекта — сквозной регистр (выдаёт преподаватель); запасные открытые датасеты с требованиями — в [../../assessment/zachet.md](../../assessment/zachet.md):
   - Heart Failure Prediction: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
   - Framingham (учебная версия): https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
   - Stroke Prediction: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset

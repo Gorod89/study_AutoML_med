@@ -2,7 +2,7 @@
 
 ## Датасеты
 
-- Датасеты командных проектов (финализация) — Heart Failure Prediction: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction ; UCI Heart Disease: https://archive.ics.uci.edu/dataset/45/heart+disease ; Framingham (учебная версия): https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
+- Данные парных проектов (финализация) — сквозной регистр (актуальная выгрузка у преподавателя); запасные датасеты — Heart Failure Prediction: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction ; UCI Heart Disease: https://archive.ics.uci.edu/dataset/45/heart+disease ; Framingham (учебная версия): https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
 
 ## Инструменты и стандарты
 
